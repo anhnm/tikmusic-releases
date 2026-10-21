@@ -1,9 +1,9 @@
-# TikMusic — bản phát hành
+# Chill Mix — bản phát hành
 
 App nghe nhạc từ các kênh **TikTok, YouTube, SoundCloud** cho Android (giao diện kiểu Spotify, nghe offline, Equalizer, hẹn giờ tắt…).
 
 ## Cài lần đầu
-1. Vào [**Releases mới nhất**](https://github.com/anhnm/tikmusic-releases/releases/latest), tải file `TikMusic-x.y.apk`.
+1. Vào [**Releases mới nhất**](https://github.com/anhnm/tikmusic-releases/releases/latest), tải file `ChillMix-x.y.apk`.
 2. Mở file trên điện thoại → cho phép **"Cài ứng dụng không rõ nguồn gốc"** nếu được hỏi.
 3. Nếu Google Play Protect cảnh báo: bấm **Chi tiết (More details) → Vẫn cài đặt (Install anyway)**.
 
